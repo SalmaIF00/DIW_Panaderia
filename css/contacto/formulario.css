@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+section{
+    
+    width: 60%;
+    height: 40em;
+    margin-left: 20%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #ffe1d1;
+}
+
+#article1{
+   
+    font-family: 'Open Sans', sans-serif;
+    width: 50%;
+    height: 40em;
+    float: left;
+}
+#article2{
+   
+    font-family: 'Open Sans', sans-serif;
+    width: 47%;
+    height: 40em;
+    float: right;
+    margin-right: 1em;
+}
+
+h1{
+    font-size: 2.5em;
+    font-family: 'Nunito', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+}
+iframe{
+    margin-top: 5em;
+}
+.texto{
+    margin-left: 1em;
+    margin-top: 2em;
+    width: 40em;
+    height: 4em;
+}
+
+.comentario{
+    margin-left: 1em;
+    width: 40em;
+    height: 10em;
+}
+::placeholder {
+    font-family:  'Nunito', sans-serif;
+    color: rgb(126, 126, 126);
+    font-size: 1.2em;
+  }
+button{
+    border-radius: 0.5em;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1em;
+    width: 10em;
+    height: 4em;
+    color: white ;
+    background-color:#452915 ;
+}

@@ -1,0 +1,26 @@
+.slider{
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 4em;
+    
+}
+
+.slider img{
+    width: 80%;
+    height: 10em;
+    display: flex;
+    padding-left:2em ;
+}
+
+.slider h4{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #5a2905;
+}
+
+.slider p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #575554;
+}

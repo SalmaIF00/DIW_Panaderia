@@ -1,0 +1,41 @@
+#estructura_interior{
+    border: 1px solid white;
+    width: 60%;
+    height: 50em;
+    margin-top: 1%;
+    margin-left: 20%;
+}
+
+.imagen{
+    margin-top: 2%;
+    margin-left: 5%;
+    border: 1px solid white;
+    width: 35%;
+    height: 25%;
+    float: left;
+}
+.imagen img{
+    width: 100%;
+    height: 100%;
+}
+
+.texto{
+    margin-top: 2%;
+    margin-left: 5%;
+    border: 1px solid white;
+    width: 90%;
+    height: 25%;
+}
+
+.texto h2{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 0.5em;
+    padding-left: 20em;
+    color: rgb(68, 40, 13);
+}
+.texto p{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 30em;
+    padding-right:10em ;
+    color: gray;
+}

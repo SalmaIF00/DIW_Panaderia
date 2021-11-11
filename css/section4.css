@@ -1,0 +1,30 @@
+#section4 article{
+    width: 25%;
+    height: 80%;
+    float: left;
+    margin-left: 4em;
+}
+
+#section4 article img{
+    width: 70%;
+    height: 10em;
+    display: flex;
+    padding-left:3em ;
+}
+
+#section4 h3{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #5a2905;
+}
+
+#section4 article h3{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #5a2905;
+}
+#section4 article p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #575554;
+}
